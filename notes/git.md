@@ -15,4 +15,8 @@ git commit -m "What it is"
 git push <remotename> <local/remote-branch> 
 <!-- git status -->
 
+# Git log
+git log 
+git log -3
+git log -3 --oneline
 
